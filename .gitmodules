@@ -1,9 +1,9 @@
 [submodule "linear_regression_c"]
 	path = linear_regression_c
-	url = ./linear_regression_c
+	url = git@github.com:liangcorp/linear_regression_c.git
 [submodule "logistic_regression_c"]
 	path = logistic_regression_c
-	url = ./logistic_regression_c
+	url = git@github.com:liangcorp/logistic_regression_c.git
 [submodule "neural_networks_c"]
 	path = neural_networks_c
-	url = ./neural_networks_c
+	url = git@github.com:liangcorp/neural_networks_c.git
