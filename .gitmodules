@@ -1,0 +1,9 @@
+[submodule "linear_regression_c"]
+	path = linear_regression_c
+	url = ./linear_regression_c
+[submodule "logistic_regression_c"]
+	path = logistic_regression_c
+	url = ./logistic_regression_c
+[submodule "neural_networks_c"]
+	path = neural_networks_c
+	url = ./neural_networks_c
